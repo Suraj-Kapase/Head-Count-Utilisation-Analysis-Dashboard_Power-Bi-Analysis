@@ -32,7 +32,8 @@ To create a dynamic Power BI dashboard by integrating and transforming data from
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F8E86003E59D83943%21sad6f5b8796db470f8d5291645a4c9da1%3Fithint%3Dphoto%26e%3DO27K4m%26migratedtospo%3Dtrue&sw=bypassConfig&cid=8E86003E59D83943&id=8E86003E59D83943%21sad6f5b8796db470f8d5291645a4c9da1&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy84ZTg2MDAzZTU5ZDgzOTQzL0VZZGJiNjNibGc5SGpWS1JaRnBNbmFFQkFWYjkyUmlybkY5cmdjUFR6MDJKc0E%5FZT1PMjdLNG0&v=photos)
+[👉 Dashboard Screenshot](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F8E86003E59D83943%21sad6f5b8796db470f8d5291645a4c9da1%3Fithint%3Dphoto%26e%3DO27K4m%26migratedtospo%3Dtrue&sw=bypassConfig&cid=8E86003E59D83943&id=8E86003E59D83943%21sad6f5b8796db470f8d5291645a4c9da1&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy84ZTg2MDAzZTU5ZDgzOTQzL0VZZGJiNjNibGc5SGpWS1JaRnBNbmFFQkFWYjkyUmlybkY5cmdjUFR6MDJKc0E%5FZT1PMjdLNG0&v=photos)
+
 ---
 
 ## 📁 Files Included
