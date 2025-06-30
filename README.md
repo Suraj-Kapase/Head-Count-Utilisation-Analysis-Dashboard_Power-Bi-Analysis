@@ -32,7 +32,7 @@ To create a dynamic Power BI dashboard by integrating and transforming data from
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](https://1drv.ms/i/c/8e86003e59d83943/EYdbb63blg9HjVKRZFpMnaEBhX5QZqSKQ6UjbGft0XMM8g?e=wFg3iq)
+![Dashboard Screenshot](https://1drv.ms/i/c/8e86003e59d83943/EYdbb63blg9HjVKRZFpMnaEBAVb92RirnF9rgcPTz02JsA?e=O27K4m)
 
 ---
 
@@ -44,3 +44,12 @@ To create a dynamic Power BI dashboard by integrating and transforming data from
 - `README.md` – Documentation and project overview
 
 ---
+
+## 📬 Contact
+
+**Suraj Kapase**  
+📧 [surajkapase1998@gmail.com]  
+📎 [LinkedIn](http://www.linkedin.com/in/surajkapase)  
+
+---
+
